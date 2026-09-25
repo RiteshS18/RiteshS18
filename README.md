@@ -1,4 +1,3 @@
-<!-- 🔧 BEFORE YOU PUSH: find & replace YOUR_USERNAME with your GitHub username (Ctrl+H) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Ritesh%20👋&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Student%20•%20Backend%20Developer%20•%20GenAI%20Explorer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
@@ -10,9 +9,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="followers" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&logo=github&color=f59e0b" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=RiteshS18&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/RiteshS18?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" alt="followers" />
+<img src="https://img.shields.io/github/stars/RiteshS18?label=Stars&style=for-the-badge&logo=github&color=f59e0b" alt="stars" />
 
 </div>
 
@@ -51,14 +50,14 @@ const ritesh = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/AuraSense">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AuraSense&theme=tokyonight&hide_border=true" alt="AuraSense" />
+<a href="https://github.com/RiteshS18/AuraSense">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=AuraSense&theme=tokyonight&hide_border=true" alt="AuraSense" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/newsletter-content-extraction">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=newsletter-content-extraction&theme=tokyonight&hide_border=true" alt="Newsletter Content Extraction" />
+<a href="https://github.com/RiteshS18/newsletter-content-extraction">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=newsletter-content-extraction&theme=tokyonight&hide_border=true" alt="Newsletter Content Extraction" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/genai-chatbot">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=genai-chatbot&theme=tokyonight&hide_border=true" alt="GenAI Chatbot" />
+<a href="https://github.com/RiteshS18/genai-chatbot">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=genai-chatbot&theme=tokyonight&hide_border=true" alt="GenAI Chatbot" />
 </a>
 
 </div>
@@ -69,18 +68,16 @@ const ritesh = {
 | 📰 **Newsletter Content Extraction** | Collects, processes, summarizes and de-duplicates content from online sources | FastAPI · Python · NLP |
 | 🧠 **GenAI Chatbot** | Learning-focused chatbot exploring APIs, LLMs and AI app development | Python · LLM APIs |
 
-> 💡 Rename the repo names in the pinned cards above to match your actual repositories.
-
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RiteshS18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshS18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=RiteshS18&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 
 </div>
 
@@ -90,7 +87,7 @@ const ritesh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RiteshS18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
@@ -100,7 +97,7 @@ const ritesh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshS18&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 </div>
 
@@ -111,9 +108,9 @@ const ritesh = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiteshS18/RiteshS18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiteshS18/RiteshS18/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RiteshS18/RiteshS18/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -148,9 +145,9 @@ const ritesh = {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/riteshsrs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/RiteshS18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:riteshselva2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
