@@ -49,7 +49,7 @@ I'm a B.Tech AI & ML student who likes building things that actually work. Most 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RiteshS18&theme=transparent&hide_border=true&border_radius=8&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=a0a0cc&dates=555555&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=RiteshS18&theme=nightowl&hide_border=false&border_radius=10&ring=06d6a0&fire=06d6a0&currStreakLabel=06d6a0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&stroke=30363d&background=161b22" />
 
 </div>
 
