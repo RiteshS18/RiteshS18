@@ -40,24 +40,6 @@ I'm a B.Tech AI & ML student who likes building things that actually work. Most 
 
 ---
 
-### 📌 projects
-
-<div align="center">
-
-<a href="https://github.com/RiteshS18/AuraSense">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=AuraSense&theme=transparent&hide_border=true&title_color=7c3aed&text_color=a0a0cc&icon_color=7c3aed&bg_color=0d1117" />
-</a>
-<a href="https://github.com/RiteshS18/newsletter-content-extraction">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=newsletter-content-extraction&theme=transparent&hide_border=true&title_color=7c3aed&text_color=a0a0cc&icon_color=7c3aed&bg_color=0d1117" />
-</a>
-<a href="https://github.com/RiteshS18/genai-chatbot">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=RiteshS18&repo=genai-chatbot&theme=transparent&hide_border=true&title_color=7c3aed&text_color=a0a0cc&icon_color=7c3aed&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
 ### 📊 stats
 
 <div align="center">
