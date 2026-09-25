@@ -36,6 +36,13 @@ I'm a B.Tech AI & ML student who likes building things that actually work. Most 
 **databases & devops**<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,docker" />
 
+**ai & data**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000" height="48" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff" height="48" />
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" height="48" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000" height="48" />
+
 </div>
 
 ---
