@@ -44,10 +44,7 @@ I'm a B.Tech AI & ML student who likes building things that actually work. Most 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RiteshS18&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=7c3aed&text_color=a0a0cc&icon_color=7c3aed&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshS18&layout=compact&hide_border=true&langs_count=6&title_color=7c3aed&text_color=a0a0cc&bg_color=0d1117" />
 
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=RiteshS18&theme=nightowl&hide_border=false&border_radius=10&ring=06d6a0&fire=06d6a0&currStreakLabel=06d6a0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&stroke=30363d&background=161b22" />
 
